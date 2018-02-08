@@ -1,4 +1,4 @@
-# bookmarks_safari_to_chrome
+# itoln
 Sync Chrome Bookmarks with Safari Bookmarks on macOS
 
 1. Open Chrome
